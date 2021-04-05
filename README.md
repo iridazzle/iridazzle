@@ -1,4 +1,4 @@
-### Hi there 👋
+### :sparkles: Hello! :sparkles:
 
 <!--
 **iridazzle/iridazzle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 :sparkling_heart: [iridazzle.monster](https://iridazzle.monster)
+
 :sparkling_heart: [LinkedIn](https://linkedin.com/in/iridazzle)
+
 :sparkling_heart: [Instagram](https://instagram.com/iridazzle)
+
 :sparkling_heart: [Twitter](https://twitter.com/iridazzle)
