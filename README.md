@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:sparkling_heart: [iridazzle.monster](https://iridazzle.monster)
+:sparkling_heart: [LinkedIn](https://linkedin.com/in/iridazzle)
+:sparkling_heart: [Instagram](https://instagram.com/iridazzle)
+:sparkling_heart: [Twitter](https://twitter.com/iridazzle)
