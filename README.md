@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--:sparkling_heart: [iridazzle.monster](https://iridazzle.monster)-->
+:sparkling_heart: <a href = "https://iridazzle.monster" target = "_blank" rel = "noopener noreferrer">iridazzle.monster</a>
 
-<a href = "https://iridazzle.monster" target = "_blank" rel = "noopener noreferrer">iridazzle.monster</a>
+:sparkling_heart: <a href = "https://linkedin.com/in/iridazzle" target = "_blank" rel = "noopener noreferrer">LinkedIn</a>
 
-:sparkling_heart: [LinkedIn](https://linkedin.com/in/iridazzle)
+:sparkling_heart: <a href = "https://instagram.com/iridazzle" target = "_blank" rel = "noopener noreferrer">Instagram</a>
 
-:sparkling_heart: [Instagram](https://instagram.com/iridazzle)
-
-:sparkling_heart: [Twitter](https://twitter.com/iridazzle)
+:sparkling_heart: <a href = "https://twitter.com/iridazzle" target = "_blank" rel = "noopener noreferrer">Twitter</a>
