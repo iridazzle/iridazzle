@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:sparkling_heart: [iridazzle.monster](https://iridazzle.monster)
+<!--:sparkling_heart: [iridazzle.monster](https://iridazzle.monster)-->
+
+<a href = "https://iridazzle.monster" target = "_blank" rel = "noopener noreferrer">iridazzle.monster</a>
 
 :sparkling_heart: [LinkedIn](https://linkedin.com/in/iridazzle)
 
