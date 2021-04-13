@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 :sparkling_heart: [iridazzle.monster](https://iridazzle.monster)
 
+:sparkling_heart: [iridazzle.github.io](https://iridazzle.github.io)
+
 :sparkling_heart: [LinkedIn](https://linkedin.com/in/iridazzle)
 
 :sparkling_heart: [Instagram](https://instagram.com/iridazzle)
