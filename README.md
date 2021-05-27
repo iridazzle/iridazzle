@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:sparkling_heart: [iridazzle.monster](https://iridazzle.monster)
+:sparkling_heart: [iridazzle.com](https://iridazzle.com)
 
-:sparkling_heart: [iridazzle.github.io](https://iridazzle.github.io)
+:sparkling_heart: [iridazzle.monster](https://iridazzle.monster)
 
 :sparkling_heart: [raccoonfaery.github.io](https://raccoonfaery.github.io)
 
