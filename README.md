@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 
 :sparkling_heart: [iridazzle.monster](https://iridazzle.monster)
 
-:sparkling_heart: [bedazzling atmo weather app](https://bedazzling-atmo.netlify.app)
-
-:sparkling_heart: [raccoonfaery.github.io](https://raccoonfaery.github.io)
-
 :sparkling_heart: [LinkedIn](https://linkedin.com/in/iridazzle)
 
 :sparkling_heart: [Instagram](https://instagram.com/iridazzle)
